@@ -4,10 +4,10 @@ date = 2023-01-27T17:37:21+01:00
 draft = false
 +++
 
-### **Stage Three Completed** ! You are unstoppable, now try to solve this _last stage_ and find **The Quote**.
+### **Stage Three Completed** ! You are unstoppable, now try to solve this _last stage_ and find _The Quote_.
 >
-# (You can download the image for more comfort)
-# (يمكنك تحميل الصورة للعمل بأريحية)
+## (You can download the image for more comfort)
+## (يمكنك تحميل الصورة للعمل بأريحية)
 >
 
 ![Second Stage](/img/4.png)
