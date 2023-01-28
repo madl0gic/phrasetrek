@@ -1,0 +1,21 @@
+baseurl = ""
+title = "MAD LOGIC"
+languageCode = "en-us"
+
+[[menu.header]]
+    name = "Play"
+    weight = 1
+    url = "first_stage"
+
+[params]
+  GithubID = "zedsalim"
+  TelegramID = "sxalim"
+  FacebookID = "sxaliim"
+  Name = "mad-logic"
+  HeaderUsername = "mad"
+  HeaderHostname = "logic"
+  Email = "salim.zaidi@univ-bouira.dz"
+  About = "Desc"
+  ProfilePicture = "/profile.png"
+  Favicon = "/favicon.png"
+
