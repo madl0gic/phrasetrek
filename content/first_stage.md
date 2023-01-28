@@ -8,7 +8,7 @@ draft = false
 >
 
 _____________________________
-#### mad-logic.netlify.app/XXX    _(إنسخه يدويا/Copy manually)_
+#### mad-logic.netlify.app/XXX    _(Copy manually)_
 >
 
 ![First Stage](/img/1.png)
